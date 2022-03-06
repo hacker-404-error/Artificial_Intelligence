@@ -92,4 +92,16 @@ It is a branch of computer science by which we can create intelligent machines w
 - Self-awareness AI is the future of Artificial Intelligence. These machines will be super intelligent, and will have their own consciousness, sentiments, and self-awareness.
 - These machines will be smarter than human mind.
 
+------
+
+### Next Topics : 
+- [ Agents in Artificial Intelligence.]()
+
+### Created By:
+<a href = "https://github.com/hacker-404-error">Pritam Das</a>
+
+<a href="https://github.com/hacker-404-error"><img src="https://avatars.githubusercontent.com/u/93383417?s=400&u=f4a9586e9618a27227ff3723ed6e282fc5be78fd&v=4" alt="Avatar" style="border-radius: 50%; width:70px"></a>
+
+
+
 -------------------------------------------------------------------------------------------------------------
