@@ -96,6 +96,8 @@ It is a branch of computer science by which we can create intelligent machines w
 
 ### Next Topics : 
 - [ Agents in Artificial Intelligence.]()
+- [Search Algorithms in AI.]()
+--------
 
 ### Created By:
 <a href = "https://github.com/hacker-404-error">Pritam Das</a>
