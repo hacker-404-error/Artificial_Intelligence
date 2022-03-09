@@ -99,10 +99,16 @@ It is a branch of computer science by which we can create intelligent machines w
 - [Search Algorithms in AI.]()
 --------
 
-### Created By:
+### Created And Coded By:
 <a href = "https://github.com/hacker-404-error">Pritam Das</a>
 
-<a href="https://github.com/hacker-404-error"><img src="https://avatars.githubusercontent.com/u/93383417?s=400&u=f4a9586e9618a27227ff3723ed6e282fc5be78fd&v=4" alt="Avatar" style="border-radius: 50%; width:70px"></a>
+<a href="https://github.com/hacker-404-error"><img src="https://i.ibb.co/yYd2Xjb/In-Shot-20220309-143908060.png" alt="Avatar" style="border-radius: 50%; width:70px"></a>
+
+
+
+## 🔗 Feedback 
+If you have any feedback, please reach out to me at [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-das-7489ab223/)
+
 
 
 
